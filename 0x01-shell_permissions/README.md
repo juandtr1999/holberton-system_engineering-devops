@@ -1,1 +1,1 @@
-0-iam_betty
+# permissions from Linux
